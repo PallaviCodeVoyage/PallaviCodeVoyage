@@ -1,4 +1,4 @@
-[!Alt][https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif]
+![Alt Text](https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif)
 # Hi there, I'm Pallavi OLI! 👋
 
 Currently pursuing my B.Tech degree (Batch 2022-2026) at Graphic Era Hill University, Dehradun. 
